@@ -26,4 +26,4 @@ There is a showcase application of the SDK in the MouseWallet (pending release J
 
 ### Documentation
 
-[**Docs**](https://github.com/norestlabs/mousewallet-ios-sdk/blob/develop/API.md)
+[**Docs**](https://github.com/norestlabs/mousewallet-ios-sdk/blob/develop/Api.md)
