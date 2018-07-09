@@ -1,0 +1,6 @@
+[submodule "mousewallet-ios-sdk"]
+	path = mousewallet-ios-sdk
+	url = git@github.com:norestlabs/mousewallet-ios-sdk.git
+[submodule "mousewallet-android-sdk"]
+	path = mousewallet-android-sdk
+	url = git@github.com:norestlabs/mousewallet-android-sdk.git
