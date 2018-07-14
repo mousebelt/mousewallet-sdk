@@ -22,7 +22,7 @@ There is a showcase application of the SDK in the MouseWallet (pending release J
 
 [**iOS SDK**](https://github.com/norestlabs/mousewallet-ios-sdk)
 
-[**Android SDK**](https://github.com/norestlabs/mousewallet-ios-sdk)
+[**Android SDK**](https://github.com/norestlabs/mousewallet-android-sdk)
 
 ### Documentation
 
