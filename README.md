@@ -13,7 +13,7 @@ This is a native SDK for iOS and Android to integrate the following blockchains 
 
 It has functionality for generating a mnemonic, generating addresses, syncing transactions, and sending transactions. This serves as the reference repository for both, but links are available to specific implementations.
 
-There is a showcase application of the SDK in the MouseWallet (pending release July 2018).
+There is a showcase application of the SDK in the MouseWallet.
 
 ### Repositories
 
