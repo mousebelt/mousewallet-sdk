@@ -1,9 +1,6 @@
 # mousewallet-sdk
 MouseSDK Easy wallet management
 
-## NOTE: Currently Under Development
-Please be diligent in testing, until this is marked for a major release.
-
 ### Information
 
 This is a native SDK for iOS and Android to integrate the following blockchains into mobile applications:
